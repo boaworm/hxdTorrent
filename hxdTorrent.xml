@@ -1,0 +1,14 @@
+<?xml version='1.0'?>
+<hxdTorrent>
+ <rss url="http://rss.thepiratebay.org/205" name="TV" >
+  <regex pattern="*south*park*" />
+  <regex pattern="*grey*anatomy*4*" />
+  <regex pattern="*the*unit*" />
+  <regex pattern="*las*vegas*" />
+  <regex pattern="*private*practice*" />
+  <regex pattern="*heroes*2*" />
+  <regex pattern="*prison*break*3*" />
+  <regex pattern="*house*3*" />
+  <regex pattern="*desperate*housewife*" />
+ </rss>
+</hxdTorrent>
